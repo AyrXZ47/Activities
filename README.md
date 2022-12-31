@@ -1,5 +1,7 @@
 # Activities in general
 
+<h3> All works are made in JS </h3>
+
 1.- To test "Guessing Game" go to https://ayrxz47.github.io/Activities/GuessingGame.html
 <br>
 <br>
